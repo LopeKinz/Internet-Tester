@@ -1,0 +1,2 @@
+2022-05-17 22:30:13.125554 : Unable to connect to servers to test latency.
+2022-05-17 22:30:14.599741 : Unable to connect to servers to test latency.
